@@ -48,4 +48,4 @@ pip install torch sentence-transformers pandas numpy
 
 ## 许可证
 
-本项目采用 [MIT 许可证](https://www.google.com/search?q=LICENSE)。
+本项目采用 [MIT 许可证](https://choosealicense.com/licenses/mit/#)。
