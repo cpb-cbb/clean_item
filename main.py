@@ -237,7 +237,7 @@ if __name__ == '__main__':
     # ==============================================================================
     CONFIG = {
         # --- 文件路径 ---
-        "input_json_path": '/Volumes/mac_outstore/work/3-5-1000-item/extracted_fields_1000_sample.json',
+        "input_json_path": '/Volumes/mac_outstore/work/3-5-9w-item/extracted_fields.json',
         "output_csv_path": 'property_clusters_output_secondary.csv',
         
         # --- 数据字段 ---
@@ -250,7 +250,7 @@ if __name__ == '__main__':
         "min_community_size": 2,              # 第一轮聚类中，一个簇最少包含的成员数量
         
         # --- 频率筛选参数 ---
-        "file_count_for_threshold": 1000,     # 用于计算频率百分比基数的总文件数
+        "file_count_for_threshold": 80000,     # 用于计算频率百分比基数的总文件数
         "frequency_threshold_percent": 0.01   # 频率筛选阈值 (例如 0.01 代表 1%)
     }
 
