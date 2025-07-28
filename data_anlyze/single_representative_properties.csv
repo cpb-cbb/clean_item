@@ -1,0 +1,1651 @@
+cluster_id,representative_property
+cluster_1,(002) peak intensity
+cluster_10,Absorbance peaks
+cluster_100,Deep Impurity Related PL Peak Position
+cluster_1000,Deep Level Density
+cluster_1001,Conduction Band (CB) Level
+cluster_1002,Tunability
+cluster_1003,Mode
+cluster_1004,Dark Recombination Current
+cluster_1005,Strain-induced Bandgap Shift
+cluster_1006,UV-vis λmax
+cluster_1007,Stop band center
+cluster_1008,UV Protection Factor
+cluster_1009,Attenuation Range (Controlled)
+cluster_101,Average Nanoparticle Size
+cluster_1010,Threshold Field
+cluster_1011,NIR Transmission
+cluster_1012,Overpotential
+cluster_1013,In composition in well layers
+cluster_1014,Diameter
+cluster_1015,LO-phonon replica energy
+cluster_1016,C 1s core level
+cluster_1017,Out-of-plane structural quality
+cluster_1018,Off-Resonant Coupling
+cluster_1019,On-Off Ratio
+cluster_102,Average Radius
+cluster_1020,Maximum Transmittance
+cluster_1021,E2 Phonon Width
+cluster_1022,Edge Resolution
+cluster_1023,Fermi Level Position relative to Valence Band Edge
+cluster_1024,Distribution profile
+cluster_1025,Low-temperature PL
+cluster_1026,NR Diameter
+cluster_1027,Deep-Level Transient Spectroscopy (DLTS)
+cluster_1028,Diffuse Scattering
+cluster_1029,Energy level of the highest occupied molecular orbital
+cluster_103,DLTS Trap Concentrations
+cluster_1030,Insulating Properties
+cluster_1031,Accuracy
+cluster_1032,Onset voltage
+cluster_1033,Rate of decrease of Peak Modal Gain with Temperature
+cluster_1034,Electron-hole pair creation energy
+cluster_1035,Coulomb Blockade Peak Position
+cluster_1036,Depletion region widths
+cluster_1037,Quantum Well Doping
+cluster_1038,Material
+cluster_1039,Flatband Voltage shift
+cluster_104,Air Gap Thickness
+cluster_1040,Beam Propagation Ratio
+cluster_1041,FTIR
+cluster_1042,Number of QWs
+cluster_1043,Cathode
+cluster_1044,Mode selectivity
+cluster_1045,Metal-Insulator Transition
+cluster_1046,Defect Level Position
+cluster_1047,ECL Signal
+cluster_1048,Resistance change upon H2 exposure
+cluster_1049,Cladding Materials
+cluster_105,Apparent Quantum Efficiency (AQE)
+cluster_1050,Pump Threshold Power
+cluster_1051,"Characteristic energy donors, acceptors"
+cluster_1052,InAs Coverage
+cluster_1053,Al 2p XPS Spectrum
+cluster_1054,Diameter Control
+cluster_1055,"Presence, Size"
+cluster_1056,Diffusion Profile
+cluster_1057,Atomic step height
+cluster_1058,Interference Fringes
+cluster_1059,Short-Circuit Current (Jsc)
+cluster_106,Bulk Lifetime
+cluster_1060,Heating Rate
+cluster_1061,Second-Harmonic Generation Efficiency
+cluster_1062,Maximum Power (Pmax)
+cluster_1063,Diffraction Line Broadening
+cluster_1064,Detective Quantum Efficiency
+cluster_1065,Effective light-hole mass
+cluster_1066,Impulse Response FWHM
+cluster_1067,Absence of Efficiency Droop
+cluster_1068,Electrode Surface Modification
+cluster_1069,Free Energy of Electron Injection (ΔGinject)
+cluster_107,Density / Surface Coverage
+cluster_1070,Composition Gradient
+cluster_1071,Energy Payback Time
+cluster_1072,Direct-to-Indirect Transition
+cluster_1073,O Content
+cluster_1074,Oxidation Peaks
+cluster_1075,Ag Nanoparticle Size
+cluster_1076,Paramagnetic Defect Density
+cluster_1077,Ion fluence
+cluster_1078,Longitudinal Cavity Mode Spacing
+cluster_1079,Local Field Enhancement
+cluster_108,Contact type with ZnO NRs
+cluster_1080,LUMO Level
+cluster_1081,Interband dephasing time
+cluster_1082,"Valence Band Offset (VBO, ΔEv)"
+cluster_1083,Surface Oxide Desorption Temperature
+cluster_1084,Dark-Dark (DD) Excitonic Splitting
+cluster_1085,Dominant Species
+cluster_1086,PEC Signal
+cluster_1087,Recombination Current Pre-factor
+cluster_1088,Integration modes
+cluster_1089,Burstein–Moss Shift
+cluster_109,Axial orientation
+cluster_1090,Characteristic Temperature (T0) of Threshold Current
+cluster_1091,Pulsed operation maximum temperature
+cluster_1092,AFM Topography
+cluster_1093,Maximum Drain-Source Voltage
+cluster_1094,Asymmetry
+cluster_1095,Block Diagram
+cluster_1096,Back Interface Recombination Velocity
+cluster_1097,Humidity Effect
+cluster_1098,Maximum Open Circuit Voltage
+cluster_1099,Error-Free Transmission Capability
+cluster_11,Al2O3 crystallinity
+cluster_110,(002) peak FWHM
+cluster_1100,Charge Carrier Mobility (Hole)
+cluster_1101,In-plane misfit strain
+cluster_1102,Averaged Basal Diameter
+cluster_1103,Plasmon damping constant
+cluster_1104,Deep Trap B Concentration
+cluster_1105,Blend Film Phase Separation
+cluster_1106,Fabry–Perot Cavity Response
+cluster_1107,Acceptor Impurity Concentration
+cluster_1108,Multilayer Periodicity
+cluster_1109,Scattering
+cluster_111,Base Resistivity
+cluster_1110,Magnetoresistance Ratio
+cluster_1111,Coalescence Process
+cluster_1112,Sheet Resistance under Illumination
+cluster_1113,Etch rate with GaAs
+cluster_1114,Crack density
+cluster_1115,Heterointerface Sharpness
+cluster_1116,Maximum Operating Speed
+cluster_1117,Moisture Resistivity
+cluster_1118,Epitaxial nature and orientation
+cluster_1119,Passivation
+cluster_112,Apparent Flat Band Potential
+cluster_1120,Activity
+cluster_1121,Pressure-induced phase transition
+cluster_1122,Microscopic Image
+cluster_1123,External Responsivity
+cluster_1124,Ion Implantation Energy
+cluster_1125,Growth Temperature (GaN)
+cluster_1126,Electron and Hole Ground State WF Spatial Overlap
+cluster_1127,Bond type
+cluster_1128,Number of Subbands
+cluster_1129,Uncompensated Acceptor Concentration
+cluster_113,Amount of Material
+cluster_1130,O2 Flow Rate
+cluster_1131,DC Characteristics
+cluster_1132,Single-Mode Tuning Range
+cluster_1133,LUMO Density Distribution
+cluster_1134,Capacitance vs. Reverse Bias Voltage
+cluster_1135,Drain-Source On-Resistance
+cluster_1136,Etch Profile Morphology
+cluster_1137,Etch per Cycle
+cluster_1138,Cooling System
+cluster_1139,Hole Mobility - Lifetime Product
+cluster_114,1/f Noise Measurements
+cluster_1140,Conversion Rate
+cluster_1141,Dark Count Probability
+cluster_1142,Lithographic Dimensions
+cluster_1143,Carrier Capture Time
+cluster_1144,Average Step Width
+cluster_1145,Saturated Drain Current (IDS)
+cluster_1146,Fabry-Perot oscillations
+cluster_1147,Dot Size Distribution
+cluster_1148,Crater Depth
+cluster_1149,Blue-Shift
+cluster_115,DCXRD rocking curve FWHM
+cluster_1150,Electrochemical Signal
+cluster_1151,Crack formation
+cluster_1152,Bulk properties
+cluster_1153,XRD Asymmetrical FWHM
+cluster_1154,Cu/III Ratio
+cluster_1155,Average Si NC size
+cluster_1156,Quantum Hall Plateaus
+cluster_1157,Residual Non-Uniformity
+cluster_1158,Pixel Active Area
+cluster_1159,Chlorine Incorporation
+cluster_116,ALP Activity
+cluster_1160,C-O Stretching Frequency
+cluster_1161,Mosaic structure
+cluster_1162,Fiber coupling loss
+cluster_1163,Physical Layout
+cluster_1164,Maximum PV Temperature
+cluster_1165,Magnetic ordering
+cluster_1166,Interplanar Spacing (d-value) for (111) plane
+cluster_1167,Chemical Hardness
+cluster_1168,Polaron Yield
+cluster_1169,Steady-State PCE
+cluster_117,Change in Drain-Source Current
+cluster_1170,In Incorporation Dependence
+cluster_1171,CNT growth mode
+cluster_1172,Al-N bond length
+cluster_1173,Brittleness
+cluster_1174,Presence of Ti–O bonds
+cluster_1175,Dislocation Etch Pit Density
+cluster_1176,Hot-carrier Cooling Dynamics
+cluster_1177,Electrocatalytic activity
+cluster_1178,Absorptance
+cluster_1179,Grain Boundary Visibility
+cluster_118,Background impurity concentration
+cluster_1180,Nitridation Efficiency
+cluster_1181,Adiabatic Ionization Potential
+cluster_1182,Characteristic temperature for Efros–Shklovskii VRH
+cluster_1183,General properties
+cluster_1184,Initial State
+cluster_1185,Coalescence
+cluster_1186,Deep Trap Capture Cross Section
+cluster_1187,Haze in Transmission
+cluster_1188,Contribution
+cluster_1189,Domain purity
+cluster_119,2-DEG Density
+cluster_1190,Compositional Inhomogeneity
+cluster_1191,Latent heat
+cluster_1192,Reduced Effective Mass (m*)
+cluster_1193,Built-in Electric Field Direction
+cluster_1194,Circuit Size
+cluster_1195,Interdot coupling strength (electron wavefunction)
+cluster_1196,Position within QD
+cluster_1197,Characteristic time constant
+cluster_1198,Mechanical Quality Factor
+cluster_1199,Lateral Composition Modulation
+cluster_12,ALD Al2O3 thickness
+cluster_120,EDX spectrum
+cluster_1200,Radiative Open Circuit Voltage
+cluster_1201,Effective work function
+cluster_1202,Calibration
+cluster_1203,Dephasing rate
+cluster_1204,HOMO energy level (EHOMO)
+cluster_1205,Average Perpendicular Lattice Parameter
+cluster_1206,Effective Mode Volume
+cluster_1207,Generation rate
+cluster_1208,Control Interface
+cluster_1209,Kinetic Rate Constant
+cluster_121,(101) Diffraction peak shift
+cluster_1210,Local Vibrational Mode (LVM)
+cluster_1211,Average Length of Flakes
+cluster_1212,Interfacial mixing
+cluster_1213,Stability and Repeatability
+cluster_1214,Measurement Method
+cluster_1215,Film Continuity
+cluster_1216,Transfer Function
+cluster_1217,Operating Mode
+cluster_1218,Chemical Sensing
+cluster_1219,Bond angle distribution width
+cluster_122,Cap layer
+cluster_1220,Concentration of Uncompensated Donors
+cluster_1221,Precursor Flow Rates
+cluster_1222,Microwave Shielding Efficiency
+cluster_1223,Superconducting Transition Width
+cluster_1224,Oxidation State of Mo
+cluster_1225,Differential Resistance of the Space-Charge Region (RSCR)
+cluster_1226,PV Cell Temperature
+cluster_1227,Bowing Curvature
+cluster_1228,Background Rate
+cluster_1229,Failure mode
+cluster_123,Average output power
+cluster_1230,Effective Isotropic Radiated Power
+cluster_1231,Ion Implantation
+cluster_1232,Low-Frequency Voltage Noise Power Spectral Density
+cluster_1233,Ramping Rate
+cluster_1234,Effective mass parameters
+cluster_1235,Free Carrier Plasma Frequency
+cluster_1236,X-ray Diffraction (XRD) Asymmetric Reflection ((102) FWHM)
+cluster_1237,DCXRD FWHM
+cluster_1238,Ohmic contact
+cluster_1239,Josephson current
+cluster_124,C–V Curve Shape
+cluster_1240,Differential Etch Rate
+cluster_1241,Interfacial Dipole
+cluster_1242,C-V Characteristic Shape
+cluster_1243,Photocatalytic Degradation of Phenol
+cluster_1244,Real part of third-order nonlinear susceptibility for Quadratic Electro-Optic Effect
+cluster_1245,CdO phase
+cluster_1246,Attenuation
+cluster_1247,CW Threshold Current
+cluster_1248,In-Plane Stiffness
+cluster_1249,Heterostructure Type
+cluster_125,Average Si Nanocrystal Size
+cluster_1250,Localization of States
+cluster_1251,Number of particles
+cluster_1252,Nuclear Spin Polarization Degree
+cluster_1253,Adsorption
+cluster_1254,Bipolar Resistive Switching
+cluster_1255,Frontier Molecular Orbital (FMO) energy levels
+cluster_1256,Hydrophobicity
+cluster_1257,Forward-Bias Voltage
+cluster_1258,Differential Resistance at Zero Bias
+cluster_1259,Average Localization Energy
+cluster_126,Anomalous Photovoltaic Effect
+cluster_1260,Mott's Parameter
+cluster_1261,IUV/Idark Ratio
+cluster_1262,CW Power
+cluster_1263,Configuration
+cluster_1264,Phosphorus Oxidation State
+cluster_1265,Internal Loss Coefficient
+cluster_1266,Schematic Top View
+cluster_1267,Tolerance Factor
+cluster_1268,C-H Stretching Vibration
+cluster_1269,Cracking
+cluster_127,Corrosion Current Density
+cluster_1270,Single Transverse Mode Operation
+cluster_1271,Current Tuning Rate
+cluster_1272,Arsenic Incorporation
+cluster_1273,Reduction of shear deformation potential
+cluster_1274,Sidewall Smoothness
+cluster_1275,Device layout
+cluster_1276,Rashba Spin-Orbit Coupling Parameter
+cluster_1277,Mass Loading
+cluster_1278,Kinetic Parameter
+cluster_1279,Complex Permittivity
+cluster_128,Al composition (Average)
+cluster_1280,Bias voltage
+cluster_1281,Te Content
+cluster_1282,Contact Configuration
+cluster_1283,Epitaxial Relationship to Al2O3
+cluster_1284,Gate Bias
+cluster_1285,Ohmic Behaviour
+cluster_1286,Negative magnetoresistance
+cluster_1287,Mn Content
+cluster_1288,Amperometric response
+cluster_1289,Field-Effect Transistor Hole Mobility
+cluster_129,Dry Etch Rate
+cluster_1290,Long-term Stability (Sheet Resistance)
+cluster_1291,Presence of InN phase
+cluster_1292,PL blinking behavior
+cluster_1293,DBR Periods
+cluster_1294,Numerical Aperture
+cluster_1295,Morphology of nanowires
+cluster_1296,Coherence
+cluster_1297,Average charging power
+cluster_1298,Kerr Nonlinearity Coefficient
+cluster_1299,-3-dB Frequency
+cluster_13,2DEG-related PL Peak Position
+cluster_130,2θ Peak Position
+cluster_1300,Device micrograph
+cluster_1301,Dynamic Behavior
+cluster_1302,Microstrain (ε)
+cluster_1303,XPS Zn 2p3/2
+cluster_1304,Fill Quality
+cluster_1305,Electromechanical coupling coefficient
+cluster_1306,Zeeman Splitting
+cluster_1307,IBE/IBB ratio
+cluster_1308,Decoherence Time
+cluster_1309,Exchange Constant
+cluster_131,Back Contact Structure
+cluster_1310,CBM position
+cluster_1311,Presence of Twin Faults / Stacking Disorder
+cluster_1312,Role
+cluster_1313,SNR (Signal-to-Noise Ratio)
+cluster_1314,Off-time Distribution Exponent
+cluster_1315,Number of Stripes
+cluster_1316,Alpha Energy Resolution
+cluster_1317,C-axis Alignment
+cluster_1318,Fill factor
+cluster_1319,Drift velocity evolution
+cluster_132,Attenuation Length
+cluster_1320,Faraday Rotation Angle
+cluster_1321,Etch Pit Size
+cluster_1322,Cell Proliferation
+cluster_1323,Fiber Volume Fraction
+cluster_1324,Presence of Surface Hydroxyl Groups
+cluster_1325,Nanodot Array Geometry
+cluster_1326,Number of Quantum Well Pairs
+cluster_1327,Cross-sectional morphology of MQWs
+cluster_1328,Border traps
+cluster_1329,Modulation Transfer Function (MTF)
+cluster_133,Composition Uniformity
+cluster_1330,Setup configuration
+cluster_1331,Dark J-V Curve
+cluster_1332,Presence in copolymer
+cluster_1333,Acoustic deformation potential
+cluster_1334,Area Covered
+cluster_1335,Electrolyte
+cluster_1336,Contribution to HOMO
+cluster_1337,Back grading parameter
+cluster_1338,Defect N2 - True Capture Cross-section
+cluster_1339,Group Velocity Dispersion
+cluster_134,Active Cell Area
+cluster_1340,Ga 3d Core Level
+cluster_1341,Hopping Integral
+cluster_1342,Design feature
+cluster_1343,Contribution to DOS
+cluster_1344,Circuit Topology
+cluster_1345,Divergence Angle
+cluster_1346,Integration
+cluster_1347,Singlet-Triplet Splitting
+cluster_1348,Degree of Alignment
+cluster_1349,Base-Collector Breakdown Voltage
+cluster_135,Anisotropy
+cluster_1350,Channel Isolation
+cluster_1351,Sb Content
+cluster_1352,Vertical correlation
+cluster_1353,Effective mass tensor components
+cluster_1354,Presence of Ti3+
+cluster_1355,Gain compression factor
+cluster_1356,Cavity-QD Detuning
+cluster_1357,Depletion Layer
+cluster_1358,Mesa Sidewall
+cluster_1359,Anchoring Energy Coefficient - Dispersion
+cluster_136,Chamber Pressure during Growth
+cluster_1360,Relative Standard Deviation (RSD)
+cluster_1361,Inversion Domain Density
+cluster_1362,Heterointerface abruptness
+cluster_1363,Effective Dynamic Impedance-Area Product
+cluster_1364,Order Parameter
+cluster_1365,Bader Charge
+cluster_1366,Contact
+cluster_1367,Input Matching
+cluster_1368,EIS Arc Radius
+cluster_1369,Hydroxide content
+cluster_137,Chemical Binding State
+cluster_1370,OFET performance
+cluster_1371,Average inter-particle distance
+cluster_1372,Effective g-factor
+cluster_1373,Beam steering
+cluster_1374,Pitch size
+cluster_1375,Acceptance Angle
+cluster_1376,Groove Geometry
+cluster_1377,Load Impedance
+cluster_1378,Additives
+cluster_1379,Magnetic Easy Axis
+cluster_138,Air Stability
+cluster_1380,On/Off Ratio (FETs)
+cluster_1381,Rotation Speed
+cluster_1382,Dissipation factor
+cluster_1383,2DEG location
+cluster_1384,Presence of Chlorine
+cluster_1385,2-dimensional Spatial Correlation
+cluster_1386,Minor Axis
+cluster_1387,Mode-locking regions
+cluster_1388,Interference pattern
+cluster_1389,f-number
+cluster_139,Electrical Hall Mobility
+cluster_1390,Input Impedance
+cluster_1391,Global Hardness
+cluster_1392,Electrophilicity
+cluster_1393,Insertion loss
+cluster_1394,Average extinction coefficient k
+cluster_1395,Forward voltage drop
+cluster_1396,Color coordinates
+cluster_1397,IV Curve Shape
+cluster_1398,Edge-type TDD
+cluster_1399,Expansion Velocity
+cluster_14,Active region thickness
+cluster_140,Absorbed photon-to-electron conversion efficiency
+cluster_1400,QD Array Morphology
+cluster_1401,Adsorption of RhB
+cluster_1402,Coherence time
+cluster_1403,Quantum-Confined Stark Effect
+cluster_1404,Geometric parameters
+cluster_1405,Step Termination Density
+cluster_1406,Average Turn-on Electric Field
+cluster_1407,Sidewall Profile
+cluster_1408,Microdistortion tensor component
+cluster_1409,Reciprocal Space Map
+cluster_141,Effective index of refraction
+cluster_1410,Gaussian Distribution Half Width
+cluster_1411,Ferromagnetic moment
+cluster_1412,Degree of Order
+cluster_1413,Clock Rate
+cluster_1414,Char Yield
+cluster_1415,C–H asymmetric stretching mode
+cluster_1416,Presence at tip
+cluster_1417,Fowler-Nordheim (FN) Plot Slope
+cluster_1418,In-plane B–N Stretching Vibration
+cluster_1419,Macro-step height
+cluster_142,Ga 3d Binding Energy
+cluster_1420,Number of spins
+cluster_1421,Detection of ALP
+cluster_1422,Border Trap A
+cluster_1423,R0A
+cluster_1424,1H NMR chemical shifts
+cluster_1425,"Experimental value of the anisotropy distance s, for BaTiO,"
+cluster_1426,CH3OH Formation Rate
+cluster_1427,Material Removal Rate
+cluster_1428,In vitro CdSe-QD formation
+cluster_1429,Quality Factor Reduction
+cluster_143,Correlation energy
+cluster_1430,k factor
+cluster_1431,Potential application
+cluster_1432,Inherited Properties
+cluster_1433,UV-vis DRS
+cluster_1434,L-I Characteristics
+cluster_1435,Connectivity
+cluster_1436,Presence of In2O3
+cluster_1437,Global Softness
+cluster_1438,Flatband Voltage Hysteresis
+cluster_1439,Mean Absolute Error
+cluster_144,13C NMR spectrum
+cluster_1440,Blocking Effect
+cluster_1441,Hyperfine Coupling Constant
+cluster_1442,Activity Coefficient
+cluster_1443,Delay time
+cluster_1444,Bleach Kinetics
+cluster_1445,Pulse Delay
+cluster_1446,Flank Wear Rate
+cluster_1447,Moiré Fringes
+cluster_1448,Metastability
+cluster_1449,NO content
+cluster_145,Al/N Ratio
+cluster_1450,Circuit Configuration
+cluster_1451,Propagation delay
+cluster_1452,Degree of Disorder
+cluster_1453,Number of Monolayers per Period
+cluster_1454,Localization
+cluster_1455,Layout
+cluster_1456,Cyclic Voltammetry Data
+cluster_1457,Presence of Inversion Domains
+cluster_1458,RMS Timing Jitter
+cluster_1459,Capacity retention
+cluster_146,Contact Electrical Resistivity
+cluster_1460,Average dipolar moment
+cluster_1461,Built-in Potential (Vbi)
+cluster_1462,1-sun J–V Parameter VOC
+cluster_1463,Polymerization Reactions
+cluster_1464,TiN Content
+cluster_1465,Carrier freeze-out
+cluster_1466,Intermediate State 1 (LIS1) - Down-spin
+cluster_1467,Generation
+cluster_1468,Sputter Yield
+cluster_1469,Cross Talk
+cluster_147,Anisotropy of Etching
+cluster_1470,Shunt Impedance
+cluster_1471,Ids–Vg Curve
+cluster_1472,Arrhenius Plot
+cluster_1473,Positron Annihilation Parameter S
+cluster_1474,Precision
+cluster_1475,Rectification
+cluster_1476,Output Matching Network
+cluster_1477,Count Rate
+cluster_1478,Water Permeability
+cluster_1479,Amorphicity
+cluster_148,Interface with Si
+cluster_1480,Germanium content
+cluster_1481,Pixel Array Size
+cluster_1482,Coercive field
+cluster_1483,Presence of Carbon sp2 Clusters
+cluster_1484,Entanglement
+cluster_1485,Second-Order Photon Autocorrelation Function g(2)(0)
+cluster_1486,Density of sulfur vacancies
+cluster_1487,Up-converted Signal Level
+cluster_1488,Self-healing
+cluster_1489,J0
+cluster_149,Arsenic fraction
+cluster_1490,Array Geometry
+cluster_1491,Localization Effect Strength
+cluster_1492,CdS/CIGS junction quality
+cluster_1493,Impedance matching
+cluster_1494,NH3 Flux (during low-NH3 stage)
+cluster_1495,Linear Regression Equation
+cluster_1496,Dihedral Angle (d) between adjacent thiophene rings
+cluster_1497,Built-in Field
+cluster_1498,Median NETD
+cluster_1499,Fractal Dimension
+cluster_15,0.45 eV Electron Trap Concentration
+cluster_150,Dark Series Resistance
+cluster_1500,Piezoresistive Gauge Factor
+cluster_1501,Readout Scheme
+cluster_1502,FWHM of ω-scan
+cluster_1503,Integration Capability
+cluster_1504,Failure Rate
+cluster_1505,Superconducting
+cluster_1506,Migration
+cluster_1507,Durability
+cluster_1508,Glucose Detection
+cluster_1509,Power-Gain Cutoff Frequency (fmax)
+cluster_151,CPW resonator coupling
+cluster_1510,Lamé Constant
+cluster_1511,Scaling exponent
+cluster_1512,NH3 Flow
+cluster_1513,Position Control
+cluster_1514,Heterostructure Layer Sequence
+cluster_1515,Storage modulus
+cluster_1516,Graphitic content
+cluster_1517,Linear Response Range for H2O2 Detection
+cluster_1518,Functional Groups
+cluster_1519,TDD
+cluster_152,Oxidation state of Zn
+cluster_1520,Wave-Function Overlap
+cluster_1521,Input Stage
+cluster_1522,Contribution to VBM
+cluster_1523,Constant K
+cluster_1524,Coordination
+cluster_1525,Capping ligand
+cluster_1526,Sample Configuration
+cluster_1527,Coercive Force
+cluster_1528,Anion displacement parameter
+cluster_1529,Interference
+cluster_153,Absence of Cracks
+cluster_1530,Gauge factor
+cluster_1531,Frame rate
+cluster_1532,Effect
+cluster_1533,Bulk modulus
+cluster_1534,HRTEM Image
+cluster_1535,Timing jitter
+cluster_1536,Humidity Sensing Response
+cluster_1537,Mass Spectrometry
+cluster_1538,Solubility
+cluster_1539,Buckling parameter
+cluster_154,Arm Length
+cluster_1540,Flux Measurement Uncertainty
+cluster_1541,Detuning
+cluster_1542,Jsc (integrated from EQE)
+cluster_1543,Biaxial modulus
+cluster_1544,Hahn-echo coherence times
+cluster_1545,π-π stacking d-spacing
+cluster_1546,Linear Dynamic Range (LDR)
+cluster_1547,Presence of difference between Field-Cooled (FC) and Zero-Field-Cooled (ZFC) magnetization
+cluster_1548,Velocity Overshoot
+cluster_1549,Hexagonal Inclusions
+cluster_155,Breakdown Characteristics
+cluster_1550,Eye diagram
+cluster_1551,Anti-interference Ability
+cluster_1552,Binding Site
+cluster_1553,Milling Rate
+cluster_1554,Index step
+cluster_1555,Number of Nuclei
+cluster_1556,Bottom Cell Jsc
+cluster_1557,Fabrication Outcome
+cluster_1558,Transit time
+cluster_1559,Sample mounting
+cluster_156,Bulk Refractive Index Sensitivity
+cluster_1560,Electronic Character
+cluster_1561,Amount incorporated
+cluster_1562,Ra
+cluster_1563,Reactor Configuration
+cluster_1564,Process Condition
+cluster_1565,Fano Factor
+cluster_1566,Nitridation
+cluster_1567,Fluorine content
+cluster_1568,TEM observation
+cluster_1569,Back contact
+cluster_157,Annual Energy Generation
+cluster_1570,Implant Profile
+cluster_1571,Observation
+cluster_1572,Slow Axis Divergence
+cluster_1573,Tauc Slope
+cluster_1574,Arrangement
+cluster_1575,Gallium Contamination
+cluster_1576,HOMO localization
+cluster_1577,Not Applicable
+cluster_1578,Value
+cluster_1579,Identical to System 1
+cluster_158,Incident Photon to Charge Carrier Efficiency
+cluster_1580,Autocorrelation
+cluster_1581,Quadrupole Moment
+cluster_1582,Number of Pairs
+cluster_1583,Eg/q - Voc
+cluster_1584,Texture Coefficient (TC)
+cluster_1585,In-Plane Relationship
+cluster_1586,Simulation Setup
+cluster_1587,Weibull Modulus
+cluster_1588,EBIC Signal
+cluster_1589,Mott VRH Parameter
+cluster_159,Carrier confinement
+cluster_1590,Degree of polymerization
+cluster_1591,CTE
+cluster_1592,Amount Deposited
+cluster_1593,CF2 Radical Density
+cluster_1594,Experimental Setup Configuration
+cluster_1595,Uptake
+cluster_1596,Semiconducting Type
+cluster_1597,Component Values
+cluster_1598,Fowler-Nordheim Plot Characteristics
+cluster_1599,DUV to Visible Rejection Ratio
+cluster_16,Absorbed Pump Power
+cluster_160,Back contact material
+cluster_1600,Stern–Volmer Constant
+cluster_1601,AM-PM Distortion
+cluster_1602,Varshni Coefficient
+cluster_1603,Overlap population
+cluster_1604,Huang-Rhys Factor
+cluster_1605,Group index
+cluster_1606,Occupation
+cluster_1607,SL period
+cluster_1608,ROS Generation
+cluster_1609,Seebeck Coefficient
+cluster_161,Heat Flux
+cluster_1610,Escape probability
+cluster_1611,Dissolution
+cluster_1612,Turnover number
+cluster_1613,CIE Coordinate
+cluster_1614,Catalyst
+cluster_1615,Presence of F
+cluster_1616,Knoop Microhardness
+cluster_1617,Presence of SiH Groups
+cluster_1618,Peroxidase-like activity
+cluster_1619,Field of view
+cluster_162,EL Full-Width at Half Maximum (FWHM)
+cluster_1620,Microcracks
+cluster_1621,Goldschmidt tolerance factor
+cluster_1622,Hydrophilicity
+cluster_1623,Electrochromism
+cluster_1624,TGA
+cluster_1625,Bowing
+cluster_1626,Memory Window
+cluster_1627,Blinking Behavior
+cluster_1628,Limit of Quantification
+cluster_1629,Average FF
+cluster_163,Coupling to QD
+cluster_1630,Antioxidant activity
+cluster_1631,Mean NETD
+cluster_1632,Shubnikov-de Haas Oscillation
+cluster_1633,Imprinting Capability
+cluster_1634,Product of ns and μn
+cluster_1635,Presence of CH3 groups
+cluster_1636,Friction
+cluster_1637,Apoptosis
+cluster_1638,Sequence specificity
+cluster_1639,Presence of PbI2
+cluster_164,Current-Voltage Behavior
+cluster_1640,Mesoporosity
+cluster_1641,Used For
+cluster_1642,Michaelis Constant
+cluster_1643,Bismuth Content
+cluster_1644,Point Spread Function
+cluster_1645,Rs
+cluster_1646,Antibacterial Activity
+cluster_1647,Hybridization
+cluster_1648,Delamination
+cluster_1649,RT PL
+cluster_165,Domain Orientation
+cluster_1650,Biofilm Formation
+cluster_166,Biaxial Residual Stress
+cluster_167,Average Inclination Angle
+cluster_168,Average Reflectance vs. Angle
+cluster_169,Bandgap Narrowing
+cluster_17,2D Peak Position
+cluster_170,Active Layer Width
+cluster_171,Cl/Si ratio
+cluster_172,Chromatic Dispersion
+cluster_173,Antenna gain
+cluster_174,Aspect Ratio Achieved
+cluster_175,Average Dot Height
+cluster_176,Arsenic Diffusion Coefficient
+cluster_177,3 dB Modulation Bandwidth
+cluster_178,Average Pore Radius
+cluster_179,Defect type and orientation
+cluster_18,Appearance of 3D growth mode
+cluster_180,C-H bond density
+cluster_181,Al2O3/4H-SiC Interface Morphology
+cluster_182,Average cavity diameter
+cluster_183,Base-collector capacitance
+cluster_184,Diffraction Pattern
+cluster_185,Chemical Interaction
+cluster_186,AlAs Mole Fraction (x)
+cluster_187,Absence
+cluster_188,BHJ Solar Cells Efficiency
+cluster_189,Al Incorporation
+cluster_19,Air temperature
+cluster_190,Buffer Leakage Current
+cluster_191,Not Applicable / Not Reported
+cluster_192,Crystalline Quality - (0002) Reflection FWHM
+cluster_193,Current Response
+cluster_194,Bandgap Shift
+cluster_195,Effective Electron Diffusion Coefficient
+cluster_196,AR Coating Reflectivity
+cluster_197,Beam flux
+cluster_198,Cavity Loss
+cluster_199,C–V hysteresis
+cluster_2,Applied Bias Photo-to-Current Efficiency
+cluster_20,Acceptors concentration
+cluster_200,Dielectric Properties
+cluster_201,Elements present
+cluster_202,Fe Valence State
+cluster_203,Counter Electrode
+cluster_204,Effective Mode Area
+cluster_205,Ambient Oxidation Resistance
+cluster_206,Cleaved facets
+cluster_207,C 1s peak
+cluster_208,Absorber thickness
+cluster_209,Donor-bound exciton peak energy
+cluster_21,Absorbance in visible spectrum
+cluster_210,"Photoresponse (Below-gap excitation, Decay Time)"
+cluster_211,DLTS Spectrum
+cluster_212,Conduction Band (CB) position
+cluster_213,Electrical Power Output
+cluster_214,Epitaxial Nature
+cluster_215,Adjacent Channel Power Ratio
+cluster_216,Etch Rate by O2 Plasma
+cluster_217,Channel electron mobility
+cluster_218,Effect of Temperature on Carrier Lifetime
+cluster_219,Cross-Sectional View
+cluster_22,(D0X) Peak Energy
+cluster_220,AFM height
+cluster_221,Gas Sensitivity to H2
+cluster_222,2-D Hole Gas Formation
+cluster_223,Average GaN Growth Rate
+cluster_224,C-V characteristics
+cluster_225,Gate Bias Voltage
+cluster_226,Junction Ideality Factor
+cluster_227,Electron-hole wave function overlap
+cluster_228,2θ angle
+cluster_229,As source dopant
+cluster_23,Absence of Extended Defects
+cluster_230,Admittance Spectra
+cluster_231,Deep Level Luminescence
+cluster_232,Cathodoluminescence Full-Width at Half Maximum
+cluster_233,BL peak position
+cluster_234,DBE Peak Position
+cluster_235,Average Transmittance
+cluster_236,Bilayer Structure
+cluster_237,EQE spectral response
+cluster_238,Biexciton quantum yield
+cluster_239,Amplitude
+cluster_24,Air gap
+cluster_240,Background Current
+cluster_241,AR Coating
+cluster_242,Adhesion (Critical Load)
+cluster_243,Collector Current
+cluster_244,Cavity Length
+cluster_245,Anchoring Energy Coefficient - Polarization
+cluster_246,Capture Cross Section (σT)
+cluster_247,Dielectric strength
+cluster_248,Anisotropic Energy Density
+cluster_249,Coefficient of Thermal Expansion (CTE)
+cluster_25,2DEG Sheet Carrier Concentration
+cluster_250,Nucleation
+cluster_251,Degradation
+cluster_252,Average lattice constant
+cluster_253,Al-N Bonding State
+cluster_254,Bridge length
+cluster_255,Grating Function
+cluster_256,Born Effective Charge
+cluster_257,Actuation voltage
+cluster_258,Magnetic coercivity
+cluster_259,Cavity mode wavelength shift
+cluster_26,A-exciton energy gap
+cluster_260,Damage Depth
+cluster_261,Dark Current-Voltage characteristics
+cluster_262,Crystallization Onset Temperature
+cluster_263,Effective width
+cluster_264,Effective Residual Donor Concentration
+cluster_265,Center conductor width
+cluster_266,Carrier Relaxation Time
+cluster_267,AMO Conversion Efficiency
+cluster_268,Hydrogen Effusion
+cluster_269,Lateral Dimension
+cluster_27,Al-fraction
+cluster_270,Chemical State of Ga
+cluster_271,Lamellar Stacking Distance
+cluster_272,Complex Refraction Index
+cluster_273,Aggregate Structure
+cluster_274,Input Waveguide Length
+cluster_275,Avalanche Breakdown Voltage
+cluster_276,AlN/GaN Interface
+cluster_277,Chemical state of Cu
+cluster_278,Adsorbed Oxygen
+cluster_279,Biaxial Elastic Modulus
+cluster_28,Anodic current density
+cluster_280,Diamagnetic coefficient
+cluster_281,Basal Stacking Fault (BSF) density
+cluster_282,Internal optical losses
+cluster_283,Barrier Energy Height
+cluster_284,Amount of absorbed dye
+cluster_285,Energy of the Hole-Light-Hole Exchange Interaction
+cluster_286,Dark Line Defects
+cluster_287,C/O Ratio
+cluster_288,Accumulation Frequency Dispersion
+cluster_289,Annually-Mean Efficiency
+cluster_29,Average Emission Lifetime
+cluster_290,Exposure Time
+cluster_291,Bandgap
+cluster_292,Enhancement Factor
+cluster_293,Arrangement/Morphology
+cluster_294,Critical current density
+cluster_295,Angular Resolution
+cluster_296,Characteristic trap energy
+cluster_297,Chemical Potential
+cluster_298,Chemical state of O
+cluster_299,Advantages
+cluster_3,3D Morphology
+cluster_30,Abrasion Resistance
+cluster_300,Degree of Relaxation
+cluster_301,Ambipolar diffusion length
+cluster_302,Device Architecture
+cluster_303,Blackbody Detectivity
+cluster_304,Adatom Diffusion Barrier
+cluster_305,Average Electric Field
+cluster_306,Excess Loss
+cluster_307,Equilibrium Vapor Pressure
+cluster_308,Annealing
+cluster_309,Heterostructure Schematic
+cluster_31,Al Composition
+cluster_310,Applied Bias
+cluster_311,DC-bias
+cluster_312,Ammonia Flow Rate
+cluster_313,Absorber Composition
+cluster_314,"Optical Band Gap (Egopt, indirect)"
+cluster_315,Donor-bound Exciton (DoX) Peak Position
+cluster_316,D0X Emission Decay Time
+cluster_317,Conduction Band Edge Electron Effective Mass
+cluster_318,Flux density to the surface
+cluster_319,(002) Peak Position (2θ)
+cluster_32,AFM phase
+cluster_320,Crystal Quality and Interface Quality
+cluster_321,FWHM (PL)
+cluster_322,CL FWHM
+cluster_323,ASE Threshold
+cluster_324,Fluorescence Blinking
+cluster_325,Capture Coefficient
+cluster_326,C-V Profile Shape
+cluster_327,CdSe Core Average Diameter
+cluster_328,Average Diameter (approx.)
+cluster_329,"Differential Emission Signal (DES) decay time (Ground State region, e.g., 1.33 eV)"
+cluster_33,Biaxial Strain Presence
+cluster_330,Bleaching decay time constants (X0)
+cluster_331,Average threshold current
+cluster_332,Average sensitivity
+cluster_333,Average Dot Size (Diameter)
+cluster_334,Interface properties
+cluster_335,Beam Quality (M²)
+cluster_336,Amorphous Carbon
+cluster_337,Applied Voltage
+cluster_338,2DEG electron mobility
+cluster_339,Cavity Mode Volume
+cluster_34,Adhesion layer
+cluster_340,2DEG carrier mobility
+cluster_341,AES Depth Profile
+cluster_342,Absolute Responsivity
+cluster_343,Wafer Bending
+cluster_344,CD Uniformity
+cluster_345,Charge injection efficiency
+cluster_346,Gamma-irradiation dose
+cluster_347,GaAs/Ge Interface Morphology
+cluster_348,CrN Phase Presence
+cluster_349,Epilayer-Substrate Lattice Mismatch
+cluster_35,2DEG Charge Density
+cluster_350,Average Grain Size (from SEM)
+cluster_351,Al composition uniformity
+cluster_352,Aqueous stability
+cluster_353,Far Field
+cluster_354,Mass Attenuation Coefficient
+cluster_355,Change in Forward Current
+cluster_356,Background net donor concentration
+cluster_357,Array Patterning
+cluster_358,Ag–Br bond length
+cluster_359,Angle
+cluster_36,Average Fluorescence Decay Time
+cluster_360,Blocking voltage
+cluster_361,Carbon Segregation Occurrence
+cluster_362,Apparent Gilbert Damping Parameter
+cluster_363,Accelerating Voltage
+cluster_364,Ferroelectric Domains
+cluster_365,EIS Parameter
+cluster_366,Absorber Section Length
+cluster_367,Frequency
+cluster_368,Biexciton binding energy
+cluster_369,Fluorescence maximum
+cluster_37,A1 LO phonon frequency
+cluster_370,C 1s Peak (O–C–O complex)
+cluster_371,Average Bandgap
+cluster_372,Degradation Kinetics
+cluster_373,Anti-reflection
+cluster_374,PL Quenching Efficiency
+cluster_375,E2(high) Mode Frequency
+cluster_376,Capture Cross Section * Thermal Velocity
+cluster_377,Band Alignment with CdS
+cluster_378,Electron Lifetime (τ)
+cluster_379,Detector Responsivity
+cluster_38,"1-sun, AM0 efficiency"
+cluster_380,Oxygen Vacancies (VO)
+cluster_381,Normalized Detectivity
+cluster_382,Average QD–QD spacing
+cluster_383,Conduction Mechanism (Low forward bias)
+cluster_384,Aperture Shape
+cluster_385,Output
+cluster_386,Crystal Quality (GaN (102) FWHM)
+cluster_387,Acceptor Density (NA)
+cluster_388,Gas sensitivity
+cluster_389,Core level shifts
+cluster_39,Active diameter
+cluster_390,PL Quantum Efficiency (QE)
+cluster_391,Al Content in AlGaN
+cluster_392,Breakdown voltage temperature coefficient
+cluster_393,Alignment
+cluster_394,Cd content
+cluster_395,Capacitance-Voltage (C-V) Hysteresis
+cluster_396,Average Interparticle Separation
+cluster_397,Exchange Splitting
+cluster_398,Al distribution
+cluster_399,Equilibrium Volume
+cluster_4,Absorbance
+cluster_40,1H NMR spectrum
+cluster_400,Fall Time (10%-90%)
+cluster_401,Cross-linking Density
+cluster_402,C Content
+cluster_403,Dispersion
+cluster_404,Cr Valence State
+cluster_405,Acoustic Wave Velocity
+cluster_406,Built-in potential
+cluster_407,Crack Probability
+cluster_408,FE-SEM
+cluster_409,Alloying
+cluster_41,Activation Energy of Drift Mobility
+cluster_410,SEM
+cluster_411,Magnetic Moment Per Mn Atom
+cluster_412,DLTS Signal
+cluster_413,Maximum PCE
+cluster_414,Cycling Stability
+cluster_415,Adsorption Configuration
+cluster_416,Average Fill factor (FF)
+cluster_417,Dead pixels
+cluster_418,Forward Ideality Factor
+cluster_419,Array Format
+cluster_42,Active Layer
+cluster_420,Abundance
+cluster_421,CL Saturation Intensity
+cluster_422,1H NMR Peak
+cluster_423,Frequency Range
+cluster_424,Color
+cluster_425,2D Band FWHM
+cluster_426,Edge Quality
+cluster_427,Charge Sensitivity
+cluster_428,Conduction Band Deformation Potential
+cluster_429,Background Acceptor Concentration
+cluster_43,Axial strain
+cluster_430,Laser Cavity Configuration
+cluster_431,-3 dB Response Frequency
+cluster_432,Irradiation conditions
+cluster_433,Lamellar Structure
+cluster_434,Hole Concentration in MQW
+cluster_435,Background Carrier Density
+cluster_436,Apparent Temperature Oscillations
+cluster_437,Deep Acceptor Level
+cluster_438,Damage State
+cluster_439,Ampere–Watt Sensitivity
+cluster_44,Apparent Conduction Band Edge Position
+cluster_440,Adsorption Time
+cluster_441,Material parameters
+cluster_442,Number of Shells
+cluster_443,Average transmission
+cluster_444,Film Appearance
+cluster_445,Energy Dispersive X-ray spectroscopy (EDS)
+cluster_446,Collector-Emitter Voltage
+cluster_447,"Lattice Parameters (a0, b0, c0)"
+cluster_448,Area coverage
+cluster_449,Al-composition Range
+cluster_45,Al Composition in Barrier
+cluster_450,Cd distribution
+cluster_451,Beam Equivalent Pressure
+cluster_452,Average Crack Width
+cluster_453,Deformation
+cluster_454,Dispersion Quality
+cluster_455,Binding Energy of XTeVII–AZnIV pair
+cluster_456,Adsorbed Dye
+cluster_457,Driving force for electron injection
+cluster_458,Alloy Scattering Potential
+cluster_459,"FWHM (XRD, (002) reflection)"
+cluster_46,A1(LO) Raman mode
+cluster_460,On/off Switching Behavior
+cluster_461,Number of Pulses
+cluster_462,Bend radius
+cluster_463,Detector
+cluster_464,Color Rendering Index
+cluster_465,Aggregation of CdS Quantum Dots
+cluster_466,Bader Charge Transfer
+cluster_467,Magnesium Content
+cluster_468,ESR g-value
+cluster_469,Carbon Fraction
+cluster_47,Absorption Frequency
+cluster_470,Minimum yield
+cluster_471,Local work function
+cluster_472,Normalized Short-circuit Current
+cluster_473,Operating Regime
+cluster_474,Average Transconductance
+cluster_475,Atomic Magnetic Moment
+cluster_476,Gate Forward Turn-on Voltage
+cluster_477,Detection Delay Stability
+cluster_478,I-V Curve
+cluster_479,As4 Pressure
+cluster_48,Auger recombination rate
+cluster_480,Product
+cluster_481,Band-edge PL Full Width at Half Maximum
+cluster_482,E2 (high) Raman Mode Frequency
+cluster_483,Lasing Threshold Pump Power
+cluster_484,Irradiance
+cluster_485,C 1s XPS Peak Position
+cluster_486,Absorbance on ZnO
+cluster_487,Limit Efficiency
+cluster_488,Areal SERS enhancement factor
+cluster_489,Buffer
+cluster_49,2DEG Conductivity
+cluster_490,Short Circuit Current Density (DSSC)
+cluster_491,Active Layer Composition
+cluster_492,Edge Type
+cluster_493,Core level position
+cluster_494,Density of Edge Threading Dislocations (ρedge)
+cluster_495,Characterization Method
+cluster_496,1/e lifetime
+cluster_497,Crystallinity and Overall Orientation
+cluster_498,Mean Dot Diameter
+cluster_499,Energy Storage
+cluster_5,Absorbed photon flux
+cluster_50,Atomic % (Composition)
+cluster_500,Formation mechanism
+cluster_501,Electrochemical HOMO-LUMO Gap
+cluster_502,Chemical Homogeneity
+cluster_503,Chemical State of Ti
+cluster_504,Enhancement in IPCE
+cluster_505,E0-0
+cluster_506,Fe/O Ratio
+cluster_507,Dark spot density
+cluster_508,Activation
+cluster_509,Number of Quantum Well Periods
+cluster_51,Active-area efficiency
+cluster_510,Space Charge Limited Current Hole Mobility
+cluster_511,Element size
+cluster_512,Chemical Potential Shift
+cluster_513,Base Dimension
+cluster_514,Eigenfrequency
+cluster_515,Adsorption geometry
+cluster_516,Adsorption on TiO2
+cluster_517,Chemical Reactions
+cluster_518,Density-of-states Effective Mass Product
+cluster_519,Finger width
+cluster_52,Absence of Luminescence Quenching
+cluster_520,Ground State Configuration
+cluster_521,Broadening factor
+cluster_522,AFM RMS Roughness
+cluster_523,Cation Ordering
+cluster_524,In-plane symmetry
+cluster_525,Adhesion energy
+cluster_526,Formation
+cluster_527,Si 2p XPS Spectrum
+cluster_528,FWHM of GaN (0002) X-ray diffraction rocking curve
+cluster_529,Current-Voltage (I-V) behavior
+cluster_53,Channel Temperature
+cluster_530,Molecular Packing
+cluster_531,Average Absolute Deviation
+cluster_532,Mass Loss
+cluster_533,Chip photograph
+cluster_534,2-DEG mobility
+cluster_535,Dielectric Function Imaginary Part
+cluster_536,Junction Abruptness
+cluster_537,Chromaticity
+cluster_538,Average period
+cluster_539,Coherent oscillation frequency
+cluster_54,Catastrophic Optical Damage
+cluster_540,Aggregate Size Distribution
+cluster_541,Fermi level at surface
+cluster_542,(0002)-plane XRC FWHM
+cluster_543,Compensation
+cluster_544,Dark I-V Characteristic
+cluster_545,Antenna Dimensions
+cluster_546,Corrosion
+cluster_547,Diode area
+cluster_548,B1 Bond Length (π-conjugated group)
+cluster_549,Die Size
+cluster_55,Absorber
+cluster_550,Boron Composition
+cluster_551,Coulomb Blockade Oscillations
+cluster_552,Contribution to LUMO
+cluster_553,Built-in voltage (Vbi)
+cluster_554,Fermi Level Pinning
+cluster_555,Array periodicity
+cluster_556,Fe-O-Fe bond angle
+cluster_557,Vacuum Level Misalignment
+cluster_558,Domain Boundary Type
+cluster_559,Forward I-V characteristic
+cluster_56,Activation Energy (EA1 - low temperature region)
+cluster_560,Ag Content
+cluster_561,Permittivity
+cluster_562,Bulk Heterojunction Formation
+cluster_563,Steepness Parameter of Urbach Tail (A)
+cluster_564,C-axis constant
+cluster_565,Polydispersity
+cluster_566,Implantation
+cluster_567,Imaginary Part of Third-Order Susceptibility
+cluster_568,Baliga's Figure of Merit
+cluster_569,Antiphase Domains (APDs)
+cluster_57,Angle-Dependent Reflectance
+cluster_570,Absorptance Spectra
+cluster_571,Micro-Photoluminescence (µ-PL) FWHM
+cluster_572,Characteristic Raman Bands
+cluster_573,Emitter Width
+cluster_574,Al 2p Peak Position
+cluster_575,Dye Fluorescence Enhancement
+cluster_576,Current with UV light
+cluster_577,Full Width at Half Maximum (FWHM) of ZnO(0002) peak
+cluster_578,Dominant Mode Resonant Frequency
+cluster_579,Average Transmittance (Visible Range)
+cluster_58,Activation Energy (PL quenching)
+cluster_580,Dark-to-Light Conductivity Ratio
+cluster_581,EL
+cluster_582,Attenuation Coefficient
+cluster_583,Electrode pattern
+cluster_584,QE at 1400 nm
+cluster_585,Background Limited Infrared Performance
+cluster_586,Onset potential
+cluster_587,Electrical Type
+cluster_588,Dark Current Stability
+cluster_589,Aperture Area
+cluster_59,Active Region Temperature Rise
+cluster_590,Dipole Moment (excited state)
+cluster_591,Magnetization Saturation
+cluster_592,Photocatalytic H2 Production Activity
+cluster_593,Peak hole mobility
+cluster_594,Photon Counting Probability
+cluster_595,Adhesive Strength
+cluster_596,Impulse response
+cluster_597,Grain size perpendicular to surface
+cluster_598,Device Diameter
+cluster_599,DC Transconductance
+cluster_6,Average Crystal Radius
+cluster_60,AM1 Conductivity
+cluster_600,Apparent rate constant
+cluster_601,Extinction index
+cluster_602,Layered structure confirmation
+cluster_603,Mo/S Ratio
+cluster_604,Device Area
+cluster_605,Capacitance transient
+cluster_606,EL Full Width at Half Maximum
+cluster_607,Biexciton lifetime
+cluster_608,10–90% Rise Time
+cluster_609,Flatness
+cluster_61,Chemical State / Bonding at Interface
+cluster_610,Deep Center
+cluster_611,Contamination
+cluster_612,Backbone Planarity
+cluster_613,Characterization
+cluster_614,Characteristics
+cluster_615,Anode-to-cathode Gap
+cluster_616,Catastrophic Optical Mirror Damage
+cluster_617,Mode Splitting
+cluster_618,Collection Efficiency Improvement
+cluster_619,Maximum Continuous-Wave (cw) Output Power
+cluster_62,2DEG Density
+cluster_620,Microstructure factor
+cluster_621,Noise equivalent power
+cluster_622,Size Distribution (Standard Deviation)
+cluster_623,Atomic Coordinates
+cluster_624,Drift Saturation Velocity
+cluster_625,Grid Line Width
+cluster_626,Charge Transfer Time
+cluster_627,Maximum modal gain
+cluster_628,Elongation
+cluster_629,Interfacial oxide
+cluster_63,Basal Plane Dislocation (BPD) Density
+cluster_630,Deep Level Defect (Trap)
+cluster_631,Device Type
+cluster_632,Alignment Accuracy
+cluster_633,Fabrication Technique
+cluster_634,Localized States
+cluster_635,AFM
+cluster_636,Dominant Orientation
+cluster_637,Capacity
+cluster_638,Ambipolar mobility
+cluster_639,CL
+cluster_64,Adherence to Substrate
+cluster_640,Lateral Extension
+cluster_641,Linearity of Response
+cluster_642,Dominant acceptor impurity
+cluster_643,Ga Content
+cluster_644,Spin Dephasing Time
+cluster_645,Charge Transfer Resistance at MMO/CdS/electrolyte interface
+cluster_646,Active Area Area
+cluster_647,Flux
+cluster_648,Binding
+cluster_649,AlGaAs Composition
+cluster_65,Accumulation capacitance
+cluster_650,Impurity (O content)
+cluster_651,Complex formation
+cluster_652,Deep Level Hole Capture Cross-section
+cluster_653,GaN Film Polarity
+cluster_654,Performance metrics for THIS system
+cluster_655,N–H Stretching Vibration
+cluster_656,Operating Voltage at 5 mW Output
+cluster_657,Average Tilt Angle
+cluster_658,Free-Volume
+cluster_659,FWHM of reciprocal lattice point
+cluster_66,Blend Film Morphology - Surface
+cluster_660,Positron trapping rate
+cluster_661,Bending Strength
+cluster_662,Average Domain Size
+cluster_663,Intermolecular packing
+cluster_664,Carbon Contamination
+cluster_665,Aging Stability
+cluster_666,Nitrogen Flux
+cluster_667,Deviation of Stoichiometry
+cluster_668,Hydrodynamic Size
+cluster_669,Decomposition
+cluster_67,Band Discontinuity
+cluster_670,Chamber Pressure
+cluster_671,CO Conversion
+cluster_672,Potentiometric Slope
+cluster_673,Simulation
+cluster_674,FET Hole Mobility
+cluster_675,Cyclic voltammetry
+cluster_676,Grid Period
+cluster_677,SPV Signal
+cluster_678,Micro-hardness
+cluster_679,Compositional Indium Fluctuation
+cluster_68,AM1 Efficiency
+cluster_680,Decomposition Onset
+cluster_681,Reverse Bias Current
+cluster_682,Misfit dislocation network
+cluster_683,Mirror curvature radius
+cluster_684,C-Axis Tilt
+cluster_685,RHEED Intensity Oscillation Behavior
+cluster_686,Coercive Electric Field
+cluster_687,Correlation Effect
+cluster_688,1/f Noise Corner Frequency
+cluster_689,Nuclear Spin
+cluster_69,Absolute Surface Energy
+cluster_690,Bias Voltage during noise measurement
+cluster_691,Passband
+cluster_692,Adsorption Energy (Eads)
+cluster_693,I2D/IG ratio
+cluster_694,Number of Steps
+cluster_695,Formula Weight
+cluster_696,Cleaning Efficacy
+cluster_697,Dielectric tensor element exy (Imaginary part)
+cluster_698,Pit Size (Average)
+cluster_699,LPE Sensitivity
+cluster_7,2DEG concentration
+cluster_70,AFM Morphology
+cluster_700,Not explicitly detailed in the provided text for this specific system
+cluster_701,Förster Distance
+cluster_702,Form factor
+cluster_703,Capability
+cluster_704,Biodegradable
+cluster_705,Finger separation
+cluster_706,Schottky Barrier Diode I–V Characteristics
+cluster_707,Average Voc
+cluster_708,J-V
+cluster_709,Dipole Moment
+cluster_71,Apparent free hole concentration
+cluster_710,Coulomb Diamond
+cluster_711,Grüneisen parameter
+cluster_712,Capture Time
+cluster_713,Frontier Orbital Energies
+cluster_714,13C NMR
+cluster_715,FESEM Image
+cluster_716,Bit-Error-Rate Penalty due to Crosstalk
+cluster_717,Weight Change
+cluster_718,Absolute hardness (η)
+cluster_719,Application
+cluster_72,2DEG depth
+cluster_720,Goodness of Fit
+cluster_721,Electroluminescence (EL) Turn-on Voltage
+cluster_722,Core Level to Valence Band Edge Binding Energy
+cluster_723,Band-tail width
+cluster_724,Crystalline quality (peak position)
+cluster_725,UV Sensing Performance
+cluster_726,Effective Albedo
+cluster_727,Bound Exciton Recombination FWHM
+cluster_728,Rejection Ratio (UV-to-visible)
+cluster_729,PL decay kinetics
+cluster_73,Circular Polarization Degree
+cluster_730,PL Thermal Quenching
+cluster_731,FWHM (0002) rocking curve
+cluster_732,Donor–acceptor pair transitions
+cluster_733,Frequency Shift
+cluster_734,Open circuit voltage dependence on light intensity slope
+cluster_735,Raman Shift
+cluster_736,Miniband formation
+cluster_737,Distribution
+cluster_738,CL Temperature Dependence
+cluster_739,Beam angle
+cluster_74,Beam current
+cluster_740,Kinetics
+cluster_741,Atomic Orbital Energies
+cluster_742,Bandgap (EG)
+cluster_743,Metal Impurity Concentration
+cluster_744,Electron g-factor
+cluster_745,Action Spectrum
+cluster_746,Al 2p XPS peak position
+cluster_747,Material Property
+cluster_748,Amplification Gain
+cluster_749,PL Lines
+cluster_75,Analytically Modelled Dielectric Loss
+cluster_750,Near Field Pattern
+cluster_751,EL peak shift with current
+cluster_752,Monolayer Confirmation
+cluster_753,Average Lifetime
+cluster_754,E2(high) Phonon Peak Position
+cluster_755,Defect Centers
+cluster_756,Etched Facet Morphology
+cluster_757,Number of Graphene Layers
+cluster_758,Window diameter
+cluster_759,Lattice Match to GaAs
+cluster_76,Busbar Width
+cluster_760,Sidewall Verticality
+cluster_761,Extinction Coefficient (k) at 632.8 nm
+cluster_762,Detection Range
+cluster_763,Composition homogeneity
+cluster_764,Sample Area
+cluster_765,D-Spacing (002)
+cluster_766,Quantum Size Effect
+cluster_767,Fiber Coupling Efficiency
+cluster_768,Density of Slow Surface States
+cluster_769,Presence of Si
+cluster_77,Ag 3d Binding Energy
+cluster_770,Common-emitter I–V characteristics
+cluster_771,3-dB Cut-off Frequency
+cluster_772,Chemical nature
+cluster_773,Electrical Stability
+cluster_774,MoSe2 Layer Formation
+cluster_775,NBE FWHM
+cluster_776,Aperture
+cluster_777,Calculated JSC from EQE
+cluster_778,External Quantum Efﬁciency
+cluster_779,Overall Cell Conversion Efficiency
+cluster_78,APD Gain
+cluster_780,Full Width at Half-Minimum (FWHM) of TE0 Guided Mode
+cluster_781,Dynamic Range
+cluster_782,Heterointerface Quality
+cluster_783,ID/IG Ratio (Raman)
+cluster_784,Oscillator Strength of 1s1→1s2 Transition
+cluster_785,Lateral Strain
+cluster_786,Birefringence
+cluster_787,Electron Blocking Layer
+cluster_788,Boundary Condition
+cluster_789,ESD Threshold Voltage
+cluster_79,3-dB Saturation Output Power
+cluster_790,Doping profile abruptness
+cluster_791,Annual Cooling Load
+cluster_792,Contribution to Dispersion Stability
+cluster_793,Terrace Width
+cluster_794,Base-Collector Junction Area
+cluster_795,Ferroelectric Phase Transition Temperature
+cluster_796,Air-Fill Factor
+cluster_797,Magneto-Resistance
+cluster_798,HOMO Offset
+cluster_799,Fitting parameter
+cluster_8,0% Cut-off Wavelength
+cluster_80,Al-O Bonding
+cluster_800,Cost of Electricity
+cluster_801,Effective diffusion coefficient
+cluster_802,Charge Transfer Resistance (Rct)
+cluster_803,THz Detection Capability
+cluster_804,Fiber Coupled Output Power
+cluster_805,Hole Radius / Lattice Constant Ratio
+cluster_806,Contribution to electronic states
+cluster_807,Composition fluctuations
+cluster_808,Electrically Active Phosphorus Concentration
+cluster_809,In-vacancy (VIn) Concentration
+cluster_81,AFM Surface Roughness
+cluster_810,Concentration of trap ME3
+cluster_811,Effective Potential Height for Electrons
+cluster_812,Hall Resistance
+cluster_813,Metallization
+cluster_814,Hole Impact Ionization Coefficient
+cluster_815,B Content
+cluster_816,External Quantum Eﬃciency
+cluster_817,Cleavage plane
+cluster_818,Lattice Image Contrast
+cluster_819,O–Si–N bond fraction
+cluster_82,Access Resistance
+cluster_820,Si-H Bond Stretching Absorption
+cluster_821,Indium Segregation
+cluster_822,Confinement
+cluster_823,Cycle Stability
+cluster_824,GaSb Molar Fraction
+cluster_825,Propagation
+cluster_826,Electrophoretic Mobility
+cluster_827,Nitrogen Incorporation Rate
+cluster_828,Local vibrational mode (LVM) frequency
+cluster_829,Acceptor level
+cluster_83,Average distance
+cluster_830,Tuning mechanism
+cluster_831,Characteristic Length
+cluster_832,Ablation Morphology
+cluster_833,Open circuit potential (OCP)
+cluster_834,AlN/Si Interface
+cluster_835,Etch Mask
+cluster_836,Concentration of S Donors
+cluster_837,Diamagnetic shift
+cluster_838,Contrast potential
+cluster_839,Elastic constants
+cluster_84,As-In bond length
+cluster_840,2DEG Formation
+cluster_841,Arrangement of QDs
+cluster_842,Diode structure
+cluster_843,Coulomb interaction
+cluster_844,Capacity Factor
+cluster_845,Global Solar Radiation
+cluster_846,CPW Dimensions
+cluster_847,Dominant Acceptor
+cluster_848,Chip size
+cluster_849,Chemical State of Sn
+cluster_85,3 dB Small-Signal Bandwidth
+cluster_850,1H NMR Spectroscopy
+cluster_851,Parasitic Elements
+cluster_852,C=O Stretching
+cluster_853,Minimum Achievable Nanopore Diameter
+cluster_854,Interface Quality with Sapphire
+cluster_855,Nonlinearity parameter
+cluster_856,Vacancy
+cluster_857,Average NP size
+cluster_858,Equivalent Circuit
+cluster_859,Presence of C-Si Bonds (XPS)
+cluster_86,Area ratio
+cluster_860,CBM Orbital Contribution
+cluster_861,Behavior
+cluster_862,Polytypes
+cluster_863,Ge Content
+cluster_864,Drain Lag
+cluster_865,Hydrogen Incorporation
+cluster_866,In content (x)
+cluster_867,Device Active Area
+cluster_868,Au Nanoparticle Presence
+cluster_869,Accumulation
+cluster_87,Current Ratio
+cluster_870,Cr Content
+cluster_871,Si-C Bond Stretching Vibration
+cluster_872,Capacity after 1000 Cycles
+cluster_873,Tauc coefficient
+cluster_874,Graphene Coverage
+cluster_875,Current loss by the top subcell in respect to middle one
+cluster_876,Average Jsc
+cluster_877,Magnetic Field Dependence
+cluster_878,Presence of V-pits
+cluster_879,Compressive Strength
+cluster_88,2D band position
+cluster_880,In Content
+cluster_881,Hall Measurements
+cluster_882,Equivalent Circuit Models
+cluster_883,Auger Coefficient
+cluster_884,Number of QW Pairs
+cluster_885,Mosaic spread
+cluster_886,Boron Distribution
+cluster_887,Critical Exponents
+cluster_888,Mott–Schottky Slope
+cluster_889,Increase in Jsc
+cluster_89,3-dB Frequency
+cluster_890,Synthesis Conditions
+cluster_891,Aggregation
+cluster_892,Agglomerate size
+cluster_893,Number of Carbon Atoms
+cluster_894,In-plane Rotation
+cluster_895,Deep Donors
+cluster_896,Host Material
+cluster_897,Dissociation constant
+cluster_898,Reconstruction
+cluster_899,Flow Rate
+cluster_9,Acceptor Doping Concentration
+cluster_90,Alloy composition
+cluster_900,Diode Factor
+cluster_901,Enthalpy of Mixing
+cluster_902,As Content
+cluster_903,Dot Alignment Quality
+cluster_904,2Θ Position
+cluster_905,Open-circuit Voltage (VOC)
+cluster_906,Not Explicitly Characterized
+cluster_907,Presence of Voids
+cluster_908,Cellular Uptake
+cluster_909,Internal Parameter
+cluster_91,Average Photoluminescence Lifetime
+cluster_910,Elastic mean free path
+cluster_911,Incorporation Site
+cluster_912,Aharonov–Bohm oscillations
+cluster_913,"Dependence on Junction Type (pn vs np, n-n, n-n with different stabilizers, Reverse)"
+cluster_914,Angular Distribution Function
+cluster_915,Model Accuracy
+cluster_916,Discharge Capacity
+cluster_917,Front Facet Intensity Noise Level
+cluster_918,Implied Open-Circuit Voltage (iVOC) (pre-ELO)
+cluster_919,Acoustic Impedance
+cluster_92,Activation Energy Barrier
+cluster_920,Ionic State
+cluster_921,Bit Rate
+cluster_922,Ga–C asymmetric stretching mode
+cluster_923,Design Optimization
+cluster_924,Core-Shell Interface
+cluster_925,Screw TDD
+cluster_926,Reproducibility
+cluster_927,0.4 µm Line/Space Clearing Dose
+cluster_928,Cost
+cluster_929,Dominant Nonlinear Susceptibility Component
+cluster_93,Component Presence
+cluster_930,Interdot Coulomb Interaction
+cluster_931,Catalysis
+cluster_932,Red-shift
+cluster_933,Adduct formation
+cluster_934,Bend loss
+cluster_935,Average coordination number
+cluster_936,CV characteristics
+cluster_937,1S bleaching dynamics
+cluster_938,Built-in Potential from C-V at 0.0001Hz
+cluster_939,Ablation Mechanism
+cluster_94,Average Mobility
+cluster_940,Optimal pH
+cluster_941,Redox Activity
+cluster_942,Number of Segments
+cluster_943,Form
+cluster_944,Afterpulsing Probability
+cluster_945,Dissolution Rate
+cluster_946,5% weight loss temperature
+cluster_947,Mask Effectiveness
+cluster_948,Depletion
+cluster_949,Functional metrics
+cluster_95,Bound Exciton Decay Time
+cluster_950,Curvature Coefficient
+cluster_951,PEC CO2 reduction products
+cluster_952,Critical Behaviour
+cluster_953,Antibunching
+cluster_954,Presence of Twins
+cluster_955,Not Applicable (General Description)
+cluster_956,Differential Non-Linearity
+cluster_957,Degeneracy
+cluster_958,Biocompatibility
+cluster_959,Figure of Merit (zT)
+cluster_96,Average Diagonal Stress Component
+cluster_960,Not specific properties extracted
+cluster_961,Bit error rate
+cluster_962,Formation of nanoclusters
+cluster_963,CIE 1931 color coordinates
+cluster_964,Kondo effect
+cluster_965,Haze
+cluster_966,DBR composition
+cluster_967,Capital cost
+cluster_968,Inductance
+cluster_969,Occupation Probability
+cluster_97,Laser Ablation Threshold
+cluster_970,DX Centers
+cluster_971,Occupancy
+cluster_972,Empirical Formula
+cluster_973,Cycling performance
+cluster_974,Relative Intensity Noise
+cluster_975,Current Change under IR Illumination
+cluster_976,FWHM Temperature Dependence
+cluster_977,PL Intensity vs. Pump Power
+cluster_978,Impedance Spectroscopy
+cluster_979,Energetic Broadening
+cluster_98,Broadening of PL Linewidth
+cluster_980,CM Threshold Energy
+cluster_981,Fluorescence Maxima
+cluster_982,PL Lifetime component
+cluster_983,Amplitude ratio
+cluster_984,Deep donor-acceptor pair transition (DDA1) intensity dependence (low excitation)
+cluster_985,Conduction Band Level
+cluster_986,Maximum Lasing Temperature
+cluster_987,Temperature-dependent PL
+cluster_988,Photovoltage Mechanism
+cluster_989,Hg Vacancy Concentration
+cluster_99,Average d-spacing
+cluster_990,Bound Exciton PL FWHM
+cluster_991,Deep Acceptor Energy Level
+cluster_992,Photosensitive Area
+cluster_993,Net Peak Quantum Efficiency
+cluster_994,External EL Quantum Efficiency
+cluster_995,1/f Noise Spectral Density
+cluster_996,Lateral Confinement Energy
+cluster_997,Peak shift in XRD (111)
+cluster_998,Current Responsivity
+cluster_999,Plasmon dispersion coefficient (a)
